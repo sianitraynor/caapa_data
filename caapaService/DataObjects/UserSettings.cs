@@ -9,5 +9,13 @@ namespace caapaService.DataObjects
 {
     class UserSettings
     {
+    
+        public int UserSettingsId { get; set; }
+        public int UserId { get; set; }
+        public int GuiSettingsId { get; set; }
+        public int UiSettingsJSON { get; set; }
+
+
+
     }
 }

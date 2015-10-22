@@ -7,9 +7,10 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class UserMaps
+    class GuiSettings
     {
-        public int MapId { get; set; }
-        public int UserId { get; set; }
+    
+        public int GuiSettingsId { get; set; }
+
     }
 }

@@ -9,5 +9,6 @@ namespace caapaService.DataObjects
 {
     class Settings
     {
+        public int SettingsId { get; set; }
     }
 }
