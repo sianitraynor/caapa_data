@@ -9,5 +9,10 @@ namespace caapaService.DataObjects
 {
     class Locations
     {
+        public int LocationId { get; set; }
+        public String LocationName{ get; set; }
+        public String LocationDesc { get; set; }
+        public int BeaconId { get; set; }
+        public int UserId { get; set; }
     }
 }

@@ -9,5 +9,10 @@ namespace caapaService.DataObjects
 {
     class Prompts
     {
+        public int promptId { get; set; }
+        public String promptName { get; set; }
+        public String promptDesc { get; set; }
+        public int userId { get; set; }
+
     }
 }

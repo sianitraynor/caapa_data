@@ -9,5 +9,11 @@ namespace caapaService.DataObjects
 {
     class Beacons
     {
+        public int BeaconId { get; set; }
+        public String BeaconBluetoothKey { get; set; }
+        public String BeaconName { get; set; }
+        public String BeaconDesc { get; set; }
+        public int LocationId { get; set; }
+
     }
 }

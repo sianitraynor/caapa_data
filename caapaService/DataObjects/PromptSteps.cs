@@ -9,5 +9,13 @@ namespace caapaService.DataObjects
 {
     class PromptSteps
     {
+        public int stepId { get; set; }
+        public int promptId { get; set; }
+        public String stepName{ get; set; }
+        public String stepDesc { get; set; }
+        public String stepImageURI { get; set; }
+        public String stepMediaURI { get; set; }
+
+
     }
 }

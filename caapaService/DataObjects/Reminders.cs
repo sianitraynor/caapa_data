@@ -9,5 +9,15 @@ namespace caapaService.DataObjects
 {
     class Reminders
     {
+        public int ReminderId { get; set; }
+        public int UserId { get; set; }
+        public String ReminderName { get; set; }
+        public String ReminderDesc { get; set; }
+        public DateTime DurationStartDatetime { get; set; }
+        public DateTime DurationEndDatetime { get; set; }
+        public String ImageURI { get; set; }
+        public String MediaURI { get; set; }
+
+
     }
 }
