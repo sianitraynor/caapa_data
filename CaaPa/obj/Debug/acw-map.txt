@@ -1,0 +1,4 @@
+CaaPa.MainActivity, CaaPa;md54d640edc1849f18223572644f04bf7f7.MainActivity
+CaaPa.MainActivity, CaaPa, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d640edc1849f18223572644f04bf7f7.MainActivity
+CaaPa.MainActivity;md54d640edc1849f18223572644f04bf7f7.MainActivity
+caapa.MainActivity;md54d640edc1849f18223572644f04bf7f7.MainActivity
