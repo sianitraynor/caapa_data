@@ -12,5 +12,9 @@ namespace caapaService.DataObjects
     
         public int GuiSettingsId { get; set; }
 
+        public GuiSettings()
+        {
+        }
     }
 }
+
