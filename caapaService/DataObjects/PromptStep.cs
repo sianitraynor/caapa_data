@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class PromptStep
+    public class PromptStep: EntityData
     {
         public int stepId { get; set; }
         public int promptId { get; set; }

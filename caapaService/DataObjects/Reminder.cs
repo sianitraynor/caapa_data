@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class Reminder
+    public class Reminder: EntityData
     {
         public int ReminderId { get; set; }
         public int UserId { get; set; }

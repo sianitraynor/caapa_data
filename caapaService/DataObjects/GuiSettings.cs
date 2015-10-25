@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class GuiSettings
+    public class GuiSettings: EntityData
     {
     
         public int GuiSettingsId { get; set; }

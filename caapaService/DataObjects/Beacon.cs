@@ -4,15 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.WindowsAzure.Mobile.Service;
+using Newtonsoft.Json;
 
 namespace caapaService.DataObjects
 {
-    class Beacon
+    public class Beacon: EntityData
     {
+
+        [JsonProperty(PropertyName = "BeaconId")]
         public int BeaconId { get; set; }
+        [JsonProperty(PropertyName = "BeaconBluetoothKey")]
         public String BeaconBluetoothKey { get; set; }
+        [JsonProperty(PropertyName = "BeaconName")]
         public String BeaconName { get; set; }
+        [JsonProperty(PropertyName = "BeaconDesc")]
         public String BeaconDesc { get; set; }
+        [JsonProperty(PropertyName = "LocationId")]
         public int LocationId { get; set; }
 
 

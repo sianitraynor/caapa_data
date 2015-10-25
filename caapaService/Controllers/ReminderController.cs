@@ -9,42 +9,42 @@ using caapaService.Models;
 
 namespace caapaService.Controllers
 {
-    public class UserMapsController : TableController<UserMaps>
+    public class ReminderController : TableController<Reminder>
     {
         protected override void Initialize(HttpControllerContext controllerContext)
         {
             base.Initialize(controllerContext);
             caapaContext context = new caapaContext();
-            DomainManager = new EntityDomainManager<UserMaps>(context, Request, Services);
+            DomainManager = new EntityDomainManager<Reminder>(context, Request, Services);
         }
 
-        // GET tables/UserMaps
-        public IQueryable<UserMaps> GetAllUserMaps()
+        // GET tables/Reminder
+        public IQueryable<Reminder> GetAllReminder()
         {
             return Query(); 
         }
 
-        // GET tables/UserMaps/48D68C86-6EA6-4C25-AA33-223FC9A27959
-        public SingleResult<UserMaps> GetUserMaps(string id)
+        // GET tables/Reminder/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        public SingleResult<Reminder> GetReminder(string id)
         {
             return Lookup(id);
         }
 
-        // PATCH tables/UserMaps/48D68C86-6EA6-4C25-AA33-223FC9A27959
-        public Task<UserMaps> PatchUserMaps(string id, Delta<UserMaps> patch)
+        // PATCH tables/Reminder/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        public Task<Reminder> PatchReminder(string id, Delta<Reminder> patch)
         {
              return UpdateAsync(id, patch);
         }
 
-        // POST tables/UserMaps
-        public async Task<IHttpActionResult> PostUserMaps(UserMaps item)
+        // POST tables/Reminder
+        public async Task<IHttpActionResult> PostReminder(Reminder item)
         {
-            UserMaps current = await InsertAsync(item);
+            Reminder current = await InsertAsync(item);
             return CreatedAtRoute("Tables", new { id = current.Id }, current);
         }
 
-        // DELETE tables/UserMaps/48D68C86-6EA6-4C25-AA33-223FC9A27959
-        public Task DeleteUserMaps(string id)
+        // DELETE tables/Reminder/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        public Task DeleteReminder(string id)
         {
              return DeleteAsync(id);
         }

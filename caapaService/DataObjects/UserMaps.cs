@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class UserMaps
+    public class UserMaps: EntityData
     {
         public int MapId { get; set; }
         public int UserId { get; set; }

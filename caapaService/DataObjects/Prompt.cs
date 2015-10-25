@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class Prompt
+    public class Prompt: EntityData
     {
         public int promptId { get; set; }
         public String promptName { get; set; }

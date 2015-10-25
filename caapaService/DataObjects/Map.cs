@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class Map
+    public class Map: EntityData
     {
         public int mapId { get; set; }
         public String LocationAddress{ get; set; }

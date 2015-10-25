@@ -9,42 +9,42 @@ using caapaService.Models;
 
 namespace caapaService.Controllers
 {
-    public class UserMapsController : TableController<UserMaps>
+    public class PromptController : TableController<Prompt>
     {
         protected override void Initialize(HttpControllerContext controllerContext)
         {
             base.Initialize(controllerContext);
             caapaContext context = new caapaContext();
-            DomainManager = new EntityDomainManager<UserMaps>(context, Request, Services);
+            DomainManager = new EntityDomainManager<Prompt>(context, Request, Services);
         }
 
-        // GET tables/UserMaps
-        public IQueryable<UserMaps> GetAllUserMaps()
+        // GET tables/Prompt
+        public IQueryable<Prompt> GetAllPrompt()
         {
             return Query(); 
         }
 
-        // GET tables/UserMaps/48D68C86-6EA6-4C25-AA33-223FC9A27959
-        public SingleResult<UserMaps> GetUserMaps(string id)
+        // GET tables/Prompt/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        public SingleResult<Prompt> GetPrompt(string id)
         {
             return Lookup(id);
         }
 
-        // PATCH tables/UserMaps/48D68C86-6EA6-4C25-AA33-223FC9A27959
-        public Task<UserMaps> PatchUserMaps(string id, Delta<UserMaps> patch)
+        // PATCH tables/Prompt/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        public Task<Prompt> PatchPrompt(string id, Delta<Prompt> patch)
         {
              return UpdateAsync(id, patch);
         }
 
-        // POST tables/UserMaps
-        public async Task<IHttpActionResult> PostUserMaps(UserMaps item)
+        // POST tables/Prompt
+        public async Task<IHttpActionResult> PostPrompt(Prompt item)
         {
-            UserMaps current = await InsertAsync(item);
+            Prompt current = await InsertAsync(item);
             return CreatedAtRoute("Tables", new { id = current.Id }, current);
         }
 
-        // DELETE tables/UserMaps/48D68C86-6EA6-4C25-AA33-223FC9A27959
-        public Task DeleteUserMaps(string id)
+        // DELETE tables/Prompt/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        public Task DeletePrompt(string id)
         {
              return DeleteAsync(id);
         }

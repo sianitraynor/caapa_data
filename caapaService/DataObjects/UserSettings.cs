@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace caapaService.DataObjects
 {
-    class UserSettings
+    public class UserSettings: EntityData
     {
     
         public int UserSettingsId { get; set; }

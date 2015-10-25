@@ -4,11 +4,14 @@ using System.Linq;
 using Microsoft.WindowsAzure.Mobile.Service;
 using Microsoft.WindowsAzure.Mobile.Service.Tables;
 using caapaService.DataObjects;
+using System.Collections;
+using System.Data;
 
 namespace caapaService.Models
 {
     public class caapaContext : DbContext
     {
+        
         // You can add custom code to this file. Changes will not be overwritten.
         // 
         // If you want Entity Framework to alter your database
@@ -23,6 +26,8 @@ namespace caapaService.Models
 
         public caapaContext() : base(connectionStringName)
         {
+             //this.Database.ExecuteSqlCommand("select * from user");
+
         }
 
         public DbSet<caapaService.caapaInitializer> Beacons { get; set; }
@@ -48,5 +53,7 @@ namespace caapaService.Models
                 new AttributeToColumnAnnotationConvention<TableColumnAttribute, string>(
                     "ServiceTableColumn", (property, attributes) => attributes.Single().ColumnType.ToString()));
         }
+
+        public System.Data.Entity.DbSet<caapaService.DataObjects.GuiSettings> GuiSettings { get; set; }
     }
 }
