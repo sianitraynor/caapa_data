@@ -10,7 +10,6 @@ namespace caapaService.DataObjects
 {
     public class Beacon: EntityData
     {
-
         [JsonProperty(PropertyName = "BeaconId")]
         public int BeaconId { get; set; }
         [JsonProperty(PropertyName = "BeaconBluetoothKey")]
@@ -28,13 +27,16 @@ namespace caapaService.DataObjects
         }
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="CaaPa.Beacons"/> class.
+        /// Initializes a new instance of the <see cref="CaaPa.Beacon"/> class.
         /// </summary>
+        /// <param name="BeaconId ">BeaconId .</param>
         /// <param name="BeaconBluetoothKey ">BeaconBluetoothKey .</param>
         /// <param name="BeaconName ">BeaconName .</param>
         /// <param name="BeaconDesc">BeaconDesc.</param>
-        ///   /// <param name="LoationId">LocationID.</param>
-        public Beacon(int BeaconId, String BeaconBluetoothKey = "", string BeaconName = "", string BeaconDesc = "") { 
+        /// <param name="LoationId">LocationID.</param>
+        public Beacon(int BeaconId, , int LocationId, String BeaconBluetoothKey = "", string BeaconName = "", string BeaconDesc = "") 
+        {
+            this.BeaconId = BeaconId;
             this.BeaconBluetoothKey = BeaconBluetoothKey;
             this.BeaconName = BeaconName;
             this.BeaconDesc = BeaconDesc;
