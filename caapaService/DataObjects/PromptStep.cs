@@ -39,6 +39,7 @@ namespace caapaService.DataObjects
         /// <param name="stepMediaURI">userMediaURI .</param>
         public PromptStep(int stepId, int promptId, String stepName = "", String stepDesc = "", 
             String stepImageURI = "", String stepMediaURI = "") {
+
             this.stepId = stepId;
             this.promptId = promptId;
             this.stepName = stepName;

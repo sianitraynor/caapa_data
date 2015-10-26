@@ -34,7 +34,7 @@ namespace caapaService.DataObjects
         /// <param name="BeaconName ">BeaconName .</param>
         /// <param name="BeaconDesc">BeaconDesc.</param>
         /// <param name="LoationId">LocationID.</param>
-        public Beacon(int BeaconId, , int LocationId, String BeaconBluetoothKey = "", string BeaconName = "", string BeaconDesc = "") 
+        public Beacon(int BeaconId, int LocationId, String BeaconBluetoothKey = "", string BeaconName = "", string BeaconDesc = "") 
         {
             this.BeaconId = BeaconId;
             this.BeaconBluetoothKey = BeaconBluetoothKey;

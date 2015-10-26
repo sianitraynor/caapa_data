@@ -18,32 +18,32 @@ namespace caapaService.Controllers
             DomainManager = new EntityDomainManager<UserSettings>(context, Request, Services);
         }
 
-        // GET tables/UserSettings1
+        // GET tables/UserSettings
         public IQueryable<UserSettings> GetAllUserSettings()
         {
             return Query(); 
         }
 
-        // GET tables/UserSettings1/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        // GET tables/UserSettings/48D68C86-6EA6-4C25-AA33-223FC9A27959
         public SingleResult<UserSettings> GetUserSettings(string id)
         {
             return Lookup(id);
         }
 
-        // PATCH tables/UserSettings1/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        // PATCH tables/UserSettings/48D68C86-6EA6-4C25-AA33-223FC9A27959
         public Task<UserSettings> PatchUserSettings(string id, Delta<UserSettings> patch)
         {
              return UpdateAsync(id, patch);
         }
 
-        // POST tables/UserSettings1
+        // POST tables/UserSettings
         public async Task<IHttpActionResult> PostUserSettings(UserSettings item)
         {
             UserSettings current = await InsertAsync(item);
             return CreatedAtRoute("Tables", new { id = current.Id }, current);
         }
 
-        // DELETE tables/UserSettings1/48D68C86-6EA6-4C25-AA33-223FC9A27959
+        // DELETE tables/UserSettings/48D68C86-6EA6-4C25-AA33-223FC9A27959
         public Task DeleteUserSettings(string id)
         {
              return DeleteAsync(id);
