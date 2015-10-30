@@ -1,7 +1,0 @@
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\CaaPa.dll
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\Mono.Android.dll
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\mscorlib.dll
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\System.Core.dll
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\System.dll
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\System.Xml.dll
-E:\uni\330 Mobile Application Development\AAcaapa_db_running\CaaPa\obj\Debug\assemblies\System.Xml.Linq.dll

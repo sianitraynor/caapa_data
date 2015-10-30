@@ -131,3 +131,308 @@ E:\uni\330 Mobile Application Development\AAcaapa_db_running\caapaService\bin\zh
 E:\uni\330 Mobile Application Development\AAcaapa_db_running\caapaService\bin\zh-Hant\System.Spatial.resources.dll
 E:\uni\330 Mobile Application Development\AAcaapa_db_running\caapaService\obj\Release\caapaService.dll
 E:\uni\330 Mobile Application Development\AAcaapa_db_running\caapaService\obj\Release\caapaService.pdb
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\SQLitePCL.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\caapaService.dll.config
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\caapaService.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\caapaService.pdb
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Autofac.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\AutoMapper.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\AutoMapper.Net4.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\EntityFramework.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\EntityFramework.SqlServer.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Data.Edm.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Data.OData.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Google.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Jwt.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.ServiceBus.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Newtonsoft.Json.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\RazorEngine.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\SQLitePCL.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Data.SQLite.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Data.SQLite.EF6.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Data.SQLite.Linq.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Net.Http.Extensions.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Net.Http.Formatting.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Net.Http.Primitives.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Spatial.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Cors.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.Cors.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.OData.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.Tracing.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Razor.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\EntityFramework.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\EntityFramework.SqlServer.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Data.SQLite.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Net.Http.Extensions.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Net.Http.Primitives.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.OData.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.Cors.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Autofac.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Net.Http.Formatting.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.Tracing.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\RazorEngine.pdb
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\RazorEngine.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Newtonsoft.Json.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Http.Owin.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Google.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Owin.Security.Jwt.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Web.Razor.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.ServiceBus.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\AutoMapper.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Data.Edm.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\Microsoft.Data.OData.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\System.Spatial.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\de\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\es\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\it\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\de\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\es\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\it\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\de\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\es\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\fr\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\it\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ja\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ko\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ru\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\de\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\es\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\fr\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\it\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ja\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ko\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\ru\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hans\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\bin\zh-Hant\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\obj\Release\caapaService.csproj.App.config
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\obj\Release\caapaService.csprojResolveAssemblyReference.cache
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\obj\Release\caapaService.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaService\obj\Release\caapaService.pdb
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\SQLitePCL.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\caapaService.dll.config
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\caapaService.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\caapaService.pdb
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Autofac.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\AutoMapper.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\AutoMapper.Net4.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\EntityFramework.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\EntityFramework.SqlServer.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Heyns.ZumoClient.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Data.Edm.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Data.OData.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Google.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Jwt.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.ServiceBus.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Newtonsoft.Json.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\RazorEngine.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\RestSharp.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\SQLitePCL.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Data.SQLite.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Data.SQLite.EF6.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Data.SQLite.Linq.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Net.Http.Extensions.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Net.Http.Formatting.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Net.Http.Primitives.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Spatial.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Cors.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.Cors.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.OData.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.Owin.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.Tracing.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Razor.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ZumoContrib.Sync.SQLStore.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Heyns.ZumoClient.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\EntityFramework.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\EntityFramework.SqlServer.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\RestSharp.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Data.SQLite.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Net.Http.Extensions.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Net.Http.Primitives.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.OData.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.Cors.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Autofac.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Net.Http.Formatting.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.Tracing.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\RazorEngine.pdb
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\RazorEngine.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Newtonsoft.Json.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Http.Owin.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Google.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Owin.Security.Jwt.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Web.Razor.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.ServiceBus.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\AutoMapper.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Data.Edm.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\Microsoft.Data.OData.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\System.Spatial.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\de\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\es\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\it\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\de\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\es\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\it\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\de\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\es\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\fr\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\it\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ja\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ko\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ru\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\de\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\es\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\fr\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\it\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ja\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ko\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\ru\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hans\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\bin\zh-Hant\System.Spatial.resources.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\obj\Release\caapaService.csproj.App.config
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\obj\Release\caapaService.csprojResolveAssemblyReference.cache
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\obj\Release\caapaService.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaService\obj\Release\caapaService.pdb
